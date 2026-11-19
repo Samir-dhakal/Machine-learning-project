@@ -21,7 +21,7 @@ metrics are tracked with MLflow.
    the same patient in both training and test data.
 
 Prepared feature and metadata CSVs are already included in `data/`, so the
-experiments can be run without repeating feature extraction.
+experiments can  run without repeating feature extraction.
 
 ## Repository layout
 
